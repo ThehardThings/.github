@@ -1,7 +1,7 @@
 ## Hi there 👋
 <h1 align="center"> Welcome to our organization</h1>
 
-![This is an image](/assets/images/bg.jpg)
+![This is an image](/assets/images/bg.png)
 <!-- ![This is an image](https://myoctocat.com/assets/images/base-octocat.svg) -->
 
 <!--
